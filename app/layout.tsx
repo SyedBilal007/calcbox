@@ -13,6 +13,12 @@ const inter = Inter({
   fallback: ['system-ui', '-apple-system', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', 'sans-serif']
 })
 
+export const viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 1,
+}
+
 export const metadata: Metadata = {
   title: {
     template: '%s | CalcBox',
@@ -65,11 +71,6 @@ export const metadata: Metadata = {
         'max-image-preview': 'large',
         'max-snippet': -1,
       },
-    },
-    viewport: {
-      width: 'device-width',
-      initialScale: 1,
-      maximumScale: 1,
     },
     icons: {
       icon: [

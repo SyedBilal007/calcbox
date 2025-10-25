@@ -29,7 +29,7 @@ export default function Contact() {
       
       <div className="max-w-2xl">
         <p className="text-lg text-gray-600 mb-8">
-          Have a question, suggestion, or found a bug? We'd love to hear from you!
+            Have a question, suggestion, or found a bug? We&apos;d love to hear from you!
         </p>
 
         <ContactForm />

@@ -27,7 +27,7 @@ export default function ContactForm() {
           <div>
             <h3 className="text-lg font-semibold text-green-900">Message Sent!</h3>
             <p className="text-green-700">
-              Thank you for your message. We'll get back to you within 24-48 hours.
+              Thank you for your message. We&apos;ll get back to you within 24-48 hours.
             </p>
           </div>
         </div>

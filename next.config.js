@@ -7,7 +7,7 @@ const nextConfig = {
   poweredByHeader: false,
   generateEtags: false,
   experimental: {
-    optimizeCss: true,
+    // optimizeCss: true, // Removed to fix critters error
   },
   compiler: {
     removeConsole: process.env.NODE_ENV === 'production',
@@ -15,8 +15,6 @@ const nextConfig = {
   // Optimize for Vercel deployment
   output: 'standalone',
   trailingSlash: false,
-  // Ensure static generation where possible
-  generateStaticParams: true,
 }
 
 module.exports = nextConfig

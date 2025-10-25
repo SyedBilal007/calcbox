@@ -35,7 +35,7 @@ export default function AgeCalculator() {
         <div className="bg-white border border-gray-200 rounded-lg p-6">
           <h2 className="text-lg font-semibold text-gray-900 mb-4">Age Calculator Coming Soon</h2>
           <p className="text-gray-600">
-            We're working on bringing you a comprehensive age calculator. Check back soon!
+            We&apos;re working on bringing you a comprehensive age calculator. Check back soon!
           </p>
         </div>
 

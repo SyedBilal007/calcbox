@@ -49,7 +49,7 @@ export default function About() {
             Questions or Feedback?
           </h3>
           <p className="text-gray-600">
-            We'd love to hear from you!{' '}
+            We&apos;d love to hear from you!{' '}
             <a href="/contact" className="text-gray-900 underline hover:no-underline">
               Contact us
             </a>{' '}

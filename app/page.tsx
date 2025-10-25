@@ -85,7 +85,7 @@ export default function Home() {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 mb-2">What is BMI?</h3>
             <p className="text-gray-600">
-              BMI (Body Mass Index) is a measure of body fat based on height and weight. It's calculated by dividing weight in kilograms by height in meters squared.
+              BMI (Body Mass Index) is a measure of body fat based on height and weight. It&apos;s calculated by dividing weight in kilograms by height in meters squared.
             </p>
           </div>
           
@@ -106,7 +106,7 @@ export default function Home() {
           <div>
             <h3 className="text-lg font-semibold text-gray-900 mb-2">What should I do with my BMI result?</h3>
             <p className="text-gray-600">
-              Use your BMI as a starting point for health discussions. Consult with healthcare providers for personalized advice, especially if you're outside the normal range.
+              Use your BMI as a starting point for health discussions. Consult with healthcare providers for personalized advice, especially if you&apos;re outside the normal range.
             </p>
           </div>
           
@@ -137,7 +137,7 @@ export default function Home() {
             The calculation is straightforward: BMI = weight (kg) ÷ height (m)². This formula produces a number that falls into one of four categories: underweight (below 18.5), normal weight (18.5-24.9), overweight (25-29.9), and obese (30 and above). These categories help identify potential health risks associated with being underweight or overweight.
           </p>
           <p className="text-gray-600 mb-4">
-            While BMI is an excellent screening tool, it's important to understand its limitations. The calculation doesn't distinguish between muscle and fat mass, which means athletes with high muscle mass may register as overweight despite being in excellent health. Similarly, older adults may have lower muscle mass, potentially masking health concerns. For these reasons, BMI should be used as part of a comprehensive health assessment rather than the sole indicator of health status.
+            While BMI is an excellent screening tool, it&apos;s important to understand its limitations. The calculation doesn&apos;t distinguish between muscle and fat mass, which means athletes with high muscle mass may register as overweight despite being in excellent health. Similarly, older adults may have lower muscle mass, potentially masking health concerns. For these reasons, BMI should be used as part of a comprehensive health assessment rather than the sole indicator of health status.
           </p>
           <p className="text-gray-600">
             Regular BMI monitoring can help track health trends over time and serve as motivation for maintaining healthy lifestyle choices. Combined with other health metrics like blood pressure, cholesterol levels, and physical fitness assessments, BMI provides valuable insight into overall health and wellness.

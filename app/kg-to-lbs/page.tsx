@@ -124,7 +124,7 @@ export default function KgToLbs() {
             The conversion between these units follows a precise mathematical relationship: 1 kilogram equals exactly 2.20462 pounds. This conversion factor is based on the international avoirdupois pound, which is the standard pound used in most countries. Understanding this conversion is crucial for various fields including medicine, sports, cooking, and international trade.
           </p>
           <p className="text-gray-600">
-            Our weight converter tool provides instant, accurate conversions between kilograms and pounds, helping you navigate between metric and imperial systems effortlessly. Whether you're tracking fitness progress, following international recipes, or working in professional settings, accurate weight conversion ensures precision in all your measurements.
+            Our weight converter tool provides instant, accurate conversions between kilograms and pounds, helping you navigate between metric and imperial systems effortlessly. Whether you&apos;re tracking fitness progress, following international recipes, or working in professional settings, accurate weight conversion ensures precision in all your measurements.
           </p>
         </div>
       </section>
